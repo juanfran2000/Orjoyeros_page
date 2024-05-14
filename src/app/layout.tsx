@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Nav from "./components/Nav";
+import FooterAnimation from "./components/FooterAnimation";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -28,9 +29,7 @@ export default function RootLayout({
         </header>
         <main>{children}</main>
         <footer>
-          <p>
-            Derechos de autor © 2024 Orjoyeros. Todos los derechos reservados.
-          </p>
+          <FooterAnimation />
         </footer>
       </body>
     </html>
