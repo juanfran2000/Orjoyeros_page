@@ -5,8 +5,8 @@ type Props = {
 export default function Nav({ title }: Props) {
   return (
     <div>
-      <div className="px-8 md:px-24 py-4">
-        <a className=" text-md" href="/">
+      <div className="px-8 md:px-24 py-6">
+        <a className=" text-md font-bold text-xl" href="/">
           {title}
         </a>
       </div>
