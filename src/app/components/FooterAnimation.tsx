@@ -1,6 +1,6 @@
 export default function FooterAnimation() {
   return (
-    <div className="sticky left-0 bottom-0 flex w-full h-[320px] sm:h-[370px]">
+    <div className="sticky left-0 bottom-0 flex w-full h-[320px] sm:h-[370px] overflow-hidden">
       <div className=" z-[-1] absolute top-0 right-0 bottom-0 left-0">
         <svg
           version="1.1"
