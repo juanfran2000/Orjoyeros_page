@@ -15,10 +15,10 @@ export default function Hero() {
           rel="noopener noreferrer"
           className="relative inline-flex items-center justify-start py-3 pl-4 pr-12 overflow-hidden font-semibold text-black transition-all duration-150 ease-in-out rounded hover:pl-10 hover:pr-6 bg-neutral-100 group"
         >
-          <span className="absolute bottom-0 left-0 w-full h-1 transition-all duration-150 ease-in-out bg-green-500 group-hover:h-full"></span>
+          <span className="absolute bottom-0 left-0 w-full h-1 transition-all duration-150 ease-in-out bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-700 group-hover:h-full"></span>
           <span className="absolute right-0 pr-4 duration-200 ease-out group-hover:translate-x-12">
             <svg
-              className="w-5 h-5 text-green-500"
+              className="w-5 h-5 text-black"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -54,7 +54,7 @@ export default function Hero() {
         </a>
         <a href="/">
           <div className="flex flex-col items-center gap-y-2">
-            <span className="icon-[pajamas--catalog-checkmark] text-2xl text-green-500" />
+            <span className="icon-[pajamas--catalog-checkmark] text-2xl bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-700" />
             <p>Ver Catálogo</p>
           </div>
         </a>
