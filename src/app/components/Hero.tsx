@@ -5,8 +5,12 @@ export default function Hero() {
     <div className="md:flex md:flex-row-reverse">
       <div className="w-full flex flex-col items-center justify-center gap-6 my-48">
         <div className="px-8 md:px-24 text-center flex flex-col gap-y-2">
-          <h1 className="text-4xl font-bold">
+          <h2 className="text-4xl font-bold">
             Anillos de boda & Medallas religiosas
+          </h2>
+          <h1>
+            Orjoyeros especializados en medallas religiosas y anillos de boda
+            personalizados en la ciudad de Quito-Ecuador
           </h1>
         </div>
         <a
