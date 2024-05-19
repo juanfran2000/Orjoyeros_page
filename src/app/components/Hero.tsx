@@ -52,14 +52,14 @@ export default function Hero() {
             Escríbenos a Whatsapp
           </span>
         </a>
-        <a href="/">
+        <a href="#cards">
           <div className="flex flex-col items-center gap-y-2">
             <span className="icon-[pajamas--catalog-checkmark] text-2xl bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-700" />
             <p>Ver Catálogo</p>
           </div>
         </a>
       </div>
-      <div className=" w-full">
+      <div className="w-full">
         <div>
           <Image
             src="/portada.png"

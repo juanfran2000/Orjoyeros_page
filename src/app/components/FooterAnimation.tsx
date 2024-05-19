@@ -67,24 +67,30 @@ s371.981,38.998,575.971,0s293.985-39.278,505.474,5.859s493.475,48.368,716.963-4.
       <section className="text-white flex flex-col justify-end pb-[80px] w-full items-center gap-[20px]">
         <ul className="socials text-2xl flex gap-5">
           <li>
-            <span className="icon-[mdi--instagram]" />
+            <a href="https://www.instagram.com/orjoyeros_ec/" target="_blank">
+              <span className="icon-[mdi--instagram]" />
+            </a>
           </li>
           <li>
-            <span className="icon-[mdi--facebook]" />
+            <a
+              href="https://www.facebook.com/doraamparo.ruizmiranda/?locale=es_LA"
+              target="_blank"
+            >
+              <span className="icon-[mdi--facebook]" />
+            </a>
           </li>
           <li>
-            <span className="icon-[ant-design--tik-tok-outlined]" />
+            <a href="https://www.tiktok.com/@doraamparoruizmir" target="_blank">
+              <span className="icon-[ant-design--tik-tok-outlined]" />
+            </a>
           </li>
         </ul>
         <ul className="links flex gap-2 md:gap-5">
           <li>
-            <a>Ubicación</a>
+            <a href="#location">Ubicación</a>
           </li>
           <li>
-            <a>Catálogo</a>
-          </li>
-          <li>
-            <a>Nosotros</a>
+            <a href="#cards">Catálogo</a>
           </li>
         </ul>
         <p className="legal">© 2024 All rights reserved</p>

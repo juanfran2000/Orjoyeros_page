@@ -36,10 +36,10 @@ export default function Home() {
   return (
     <div>
       <Hero />
-      <div className="mt-8 md:mt-20">
+      <div className="mt-8 md:mt-20" id="location">
         <CardsLocation />
       </div>
-      <section className="flex flex-col items-center  w-full">
+      <section className="flex flex-col items-center  w-full" id="cards">
         <div className="flex flex-col items-center py-8 mt-20">
           <h4 className="text-xs md:text-md">Que modelos tienen?</h4>
           <h2 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-700 via-yellow-500 to-yellow-700 md:text-3xl">
