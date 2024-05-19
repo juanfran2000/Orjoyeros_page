@@ -24,7 +24,7 @@ const medallas = [
   {
     image: "/medallas/escapulario.jpg",
     model: "Escapulario.",
-    size: "/medallas/tamaños/escapulario.png",
+    size: "/medallas/tamaños/escapularios.png",
     alt: "Medalla Escapulario - Virgen Del Carmen",
     paragraph:
       "Permanecer cerca de la Virgen del Carmen, buscando su guía y protección a lo largo de la vida.",
