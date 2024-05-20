@@ -10,7 +10,7 @@ const medallas = [
     alt: "Medalla Angelito Rafael",
     paragraph:
       "Se le asocia con la providencia divina, proporcionando ayuda en momentos de necesidad.",
-    link: "https://www.instagram.com/p/C7IXUkPNu_U/?igsh=MWFheWluZXliNTgzbA==",
+    link: "https://www.instagram.com/p/C7Mvvv1Jbek/?igsh=MWxucXQyYTZyNW55MQ==",
   },
   {
     image: "/medallas/custodios.jpg",
@@ -19,7 +19,7 @@ const medallas = [
     alt: "Medalla Angeles custodios",
     paragraph:
       "Se cree que ellos intervienen en momentos de peligro, proporcionando protección y asistencia.",
-    link: "https://www.instagram.com/p/C7IXdsdtYCU/?igsh=eW84Y25yZ2kycXRn",
+    link: "https://www.instagram.com/p/C7MvoxopgiS/?igsh=d2N0M2JsMjlqbzh3",
   },
   {
     image: "/medallas/escapulario.jpg",
@@ -28,7 +28,7 @@ const medallas = [
     alt: "Medalla Escapulario - Virgen Del Carmen",
     paragraph:
       "Permanecer cerca de la Virgen del Carmen, buscando su guía y protección a lo largo de la vida.",
-    link: "https://www.instagram.com/p/C7IiCNitUs_/?igsh=MThzbGRycG8yaHNpZQ==",
+    link: "https://www.instagram.com/p/C7Mv1N3JloE/?igsh=MWpoejFvNXR4NjVocw==",
   },
   {
     image: "/medallas/maria.jpg",
@@ -37,7 +37,7 @@ const medallas = [
     alt: "Medalla Virgen María",
     paragraph:
       "la Virgen María es un poderoso símbolo de su santidad, su conexión con lo divino y su rol como intercesora y protectora de los fieles.",
-    link: "https://www.instagram.com/p/C7KrAGPJe2Z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvlBNJ34r/?igsh=MTBrMzN3MDk1bDJ3ZQ==",
   },
   {
     image: "/medallas/virgen.jpg",
@@ -46,7 +46,7 @@ const medallas = [
     alt: "Medalla Virgen María",
     paragraph:
       "la Virgen María es un poderoso símbolo de su santidad, su conexión con lo divino y su rol como intercesora y protectora de los fieles.",
-    link: "https://www.instagram.com/p/C7Kq76dpcjM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7Mvi5hp-zR/?igsh=ZGw2dDE1ZzgwbGpv",
   },
   {
     image: "/medallas/benito.jpg",
@@ -55,7 +55,7 @@ const medallas = [
     alt: "Medalla San Benito",
     paragraph:
       "Llevar la medalla de San Benito significa buscar protección contra el mal y las influencias negativas.",
-    link: "https://www.instagram.com/p/C7KqzZCpcu0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvgfgpvHc/?igsh=MW1vZGp1anpja21jaQ==",
   },
   {
     image: "/medallas/fatima.jpg",
@@ -64,7 +64,7 @@ const medallas = [
     alt: "Medalla Virgen de Fátima",
     paragraph:
       "Llevar la medalla de la Virgen de Fátima significa buscar protección y bendiciones de la Virgen María.",
-    link: "https://www.instagram.com/p/C7KqsiqJSK5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7Mvc7Jpzxr/?igsh=NTNmbWZ1ZTNnOW8x",
   },
   {
     image: "/medallas/espiritu.jpg",
@@ -73,7 +73,7 @@ const medallas = [
     alt: "Medalla Espíritu Santo",
     paragraph:
       "Llevar la medalla del Espíritu Santo simboliza la búsqueda de guía y fortaleza espiritual.",
-    link: "https://www.instagram.com/p/C7KqjNOJxwd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvZy6paAa/?igsh=MTlobGQxbTVtczRjdQ==",
   },
   {
     image: "/medallas/comunion.jpg",
@@ -82,7 +82,7 @@ const medallas = [
     alt: "Medalla Santa Comunión",
     paragraph:
       "Llevar la medalla de la Santa Comunión representa la devoción y recuerdo de la primera recepción de la Eucaristía.",
-    link: "https://www.instagram.com/p/C7Kqd5BpKxi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvXNMps9l/?igsh=MmJmdDN5MWgxMHl2",
   },
   {
     image: "/medallas/confirmacion.jpg",
@@ -91,7 +91,7 @@ const medallas = [
     alt: "Medalla Santa Confirmación",
     paragraph:
       "Llevar la medalla de la Confirmación simboliza la reafirmación de la fe y la recepción del Espíritu Santo.",
-    link: "https://www.instagram.com/p/C7KqU-WJGeu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvU1hpQ2W/?igsh=OW03Zm4wNzh6NXV4",
   },
   {
     image: "/medallas/miguel.jpg",
@@ -100,7 +100,7 @@ const medallas = [
     alt: "Medalla Arcángel Miguel",
     paragraph:
       "Llevar la medalla del Arcángel Miguel representa la búsqueda de protección y fortaleza espiritual contra el mal.",
-    link: "https://www.instagram.com/p/C7KqNkPpBKF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvR5spXdv/?igsh=MWtldjJia2JzcXd4OQ==",
   },
   {
     image: "/medallas/milagrosa.jpg",
@@ -109,7 +109,7 @@ const medallas = [
     alt: "Medalla Virgen Milagrosa",
     paragraph:
       "Llevar la medalla de la Virgen Milagrosa simboliza la búsqueda de intercesión y protección divina en momentos de necesidad.",
-    link: "https://www.instagram.com/p/C7KqCeqpa1R/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvPigJq5S/?igsh=YnM4dWhuODFubTlk",
   },
   {
     image: "/medallas/medjugorje.jpg",
@@ -118,7 +118,7 @@ const medallas = [
     alt: "Medalla Virgen Medjugorje",
     paragraph:
       "Llevar la medalla de Medjugorje puede representar la conexión personal con los eventos y mensajes atribuidos a las apariciones marianas en Medjugorje, Bosnia y Herzegovina.",
-    link: "https://www.instagram.com/p/C7Kp5pUpwg3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvMe-Jxo4/?igsh=MWUya2pjb29xM2ozOQ==",
   },
   {
     image: "/medallas/guadalupe.jpg",
@@ -127,16 +127,16 @@ const medallas = [
     alt: "Medalla Virgen Guadalupe",
     paragraph:
       "Llevar la medalla de la Virgen de Guadalupe representa la devoción hacia la Virgen María en su advocación específica como patrona de México y de las Américas, así como símbolo de fe, esperanza y protección.",
-    link: "https://www.instagram.com/p/C7KpvnBJGjV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvIO-JjGt/?igsh=MXgwa2Nlb3pkbW1waQ==",
   },
   {
     image: "/medallas/schoenstatt.jpg",
-    model: "Virgen Guadalupe.",
+    model: "Virgen Shoenstatt.",
     size: "/medallas/tamaños/schoenstatt.png",
     alt: "Medalla Virgen Shoenstatt",
     paragraph:
       "la medalla de Schoenstatt simboliza la conexión con el Movimiento de Schoenstatt,la formación personal, así como la búsqueda de la cercanía con Dios a través de la Virgen María.",
-    link: "https://www.instagram.com/p/C7KpqjBJr-C/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    link: "https://www.instagram.com/p/C7MvE-UJ8H8/?igsh=eW8wYnpvMnlhcWh3",
   },
 ];
 
